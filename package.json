@@ -20,21 +20,19 @@
     "expo-blur": "~11.0.0",
     "intl": "^1.2.5",
     "jest": "^26.6.3",
-    "jest-expo": "^46.0.1",
+    "jest-expo": "^44.0.1",
     "json-server": "^0.17.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
     "react-native-safe-area-context": "3.3.2",
     "react-native-screens": "~3.10.1",
-    "react-native-web": "0.17.1",
-    "expo-modules-core": "~0.6.4"
+    "react-native-web": "0.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "@testing-library/react-hooks": "^8.0.1",
-    "@testing-library/react-native": "^11.0.0",
-    "expo-module-scripts": "^2.1.0",
+    "@testing-library/react-hooks": "^7.0.2",
+    "@testing-library/react-native": "^9.0.0",
     "react-test-renderer": "^17.0.1"
   },
   "private": true,
